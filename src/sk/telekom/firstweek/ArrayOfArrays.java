@@ -1,3 +1,5 @@
+package sk.telekom.firstweek;
+
 public class ArrayOfArrays {
     public static void main(String[] args) {
         int[][] rows = {{1, 2, 3}, {4, 5, 6}, {7, 8, 9}};

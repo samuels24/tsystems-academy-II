@@ -1,3 +1,5 @@
+package sk.telekom.firstweek;
+
 public class ArrayCopy {
     public static void main(String[] args) {
         int[] numbers;

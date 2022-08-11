@@ -1,3 +1,5 @@
+package sk.telekom.firstweek;
+
 import java.util.Arrays;
 
 public class Sort {

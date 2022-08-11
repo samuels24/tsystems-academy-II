@@ -1,3 +1,5 @@
+package sk.telekom.firstweek;
+
 public class Matrices {
     public static void main(String[] args) {
         int[][] matrixA = {
